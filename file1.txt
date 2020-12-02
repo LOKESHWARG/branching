@@ -1,1 +1,2 @@
 This the text document created for Git tutorial for one credit course.
+The text document is added with some text for the branch introduction.
